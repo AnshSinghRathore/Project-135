@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width:100%;
+    font-size:25px;
+    margin:0;
+}
+
+canvas{
+    box-shadow: 5px 5px 5px white;
+    border: 2px solid white;
+    border-radius:25px;
+    margin-top:130px;
+}
+
+#label
+{
+    color:white;
+}
